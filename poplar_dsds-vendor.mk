@@ -445,7 +445,6 @@ PRODUCT_PACKAGES += \
     CNEService \
     CameraCommon \
     CameraPanorama-release \
-    CustomizationSelector \
     SemcCameraUI-xxhdpi-release \
     SomcMovieCreator-release \
     SoundPhotoCamera-xxhdpi-release \
